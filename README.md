@@ -1,3 +1,4 @@
 # ML-project
-It is a credit card fraud detector,
-The dataset was downloaded from [this website](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+This is the ML model for credit card fraud detection.
+The dataset was downloaded from the [ website](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+LogisticRegression and 
